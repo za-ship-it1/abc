@@ -1,5 +1,5 @@
 ---
-name: exam-ready
+name: ready
 description: >
   Activate this skill when a student provides study material (PDF or pasted notes)
   and a syllabus, and wants to prepare for an exam. Extracts key definitions,
